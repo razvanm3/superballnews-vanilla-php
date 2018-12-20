@@ -48,7 +48,7 @@
     private $password = "";
 ```
 
-<p>Now you can access the project from http://localhost/superballnews/</p>
+<p>Now you can acces the project at http://localhost/superballnews/</p>
 
 
 <h3>4.Creator:</h3>
