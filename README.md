@@ -33,13 +33,13 @@
 <h4>II. Installation:</h4>
 
 
-<p>Copy the repository folder to xampp/htdocs/</p>
+<p>Copy the repository folder to <i>xampp/htdocs/</i>.</p>
 
-<p>Go to http://localhost/phpmyadmin/ and create a database called <i>blogdb</i></p>
+<p>Go to <i>http://localhost/phpmyadmin/</i> and create a database called <i>blogdb</i>.</p>
 
-<p>Import the blogdb.sql file provided in the repository</p>
+<p>Import the blogdb.sql file provided in the repository.</p>
 
-<p>Go to admin/config/ and add your database credentials in to database.php and database1.php files</p>
+<p>Go to admin/config/ and add your database credentials in to database.php and database1.php files:</p>
 
 ```shell
     private $host = "localhost";
@@ -48,7 +48,7 @@
     private $password = "";
 ```
 
-<p>Now you can acces the project at http://localhost/superballnews/</p>
+<p>Now you can access the project from <i>http://localhost/superballnews/</i>.</p>
 
 
 <h3>4.Creator:</h3>
